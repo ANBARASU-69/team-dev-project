@@ -1,0 +1,12 @@
+cat > students.txt << 'EOF'
+Rahul
+Priya
+Arun
+Divya
+Karthik
+Meena
+Suresh
+Anitha
+Vijay
+Lakshmi
+EOF
