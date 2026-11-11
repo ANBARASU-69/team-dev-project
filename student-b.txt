@@ -1,0 +1,17 @@
+cat > b-class-students.txt << 'EOF'
+1. Aravind
+2. Bharathi
+3. Chitra
+4. Dinesh
+5. Elango
+6. Fathima
+7. Gokul
+8. Harini
+9. Ismail
+10. Janani
+11. Kavin
+12. Latha
+13. Manoj
+14. Nandhini
+15. Prakash
+EOF
